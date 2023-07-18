@@ -1,0 +1,4 @@
+keyPassword=teatalkupload
+storePassword=teatalkupload
+keyAlias=upload
+storeFile=../upload-keystore

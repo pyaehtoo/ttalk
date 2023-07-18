@@ -1,0 +1,82 @@
+name: teatalk
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  chewie: ^1.5.0
+  cupertino_icons: 1.0.5
+  dio: 5.0.3
+  fl_country_code_picker: 0.1.2
+  flutter:
+    sdk: flutter
+  flutter_cupertino_date_picker_fork: 1.0.7
+  flutter_linkify: 5.0.2
+  flutter_otp_text_field: 1.1.1
+  flutter_svg: 2.0.4
+  fluttertoast: 8.2.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  http: 0.13.5
+  http_parser: 4.0.2
+  image_picker: 0.8.7
+  image_picker_android: 0.8.6+6
+  image_picker_platform_interface: 2.6.3
+  intl: 0.17.0
+  json_annotation: 4.8.0
+  json_serializable: 6.6.1
+  path: 1.8.2
+  photo_view: 0.14.0
+  provider: 6.0.5
+  pull_to_refresh: 2.0.0
+  shared_preferences: 2.1.2
+  sticky_headers: 0.3.0+2
+  timeago_flutter: 1.2.0
+  video_player: ^2.7.0
+  url_launcher: 6.1.10
+
+dev_dependencies:
+  build_runner: 2.3.3
+  flutter_lints: 2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/
+  fonts:
+    - family: Graphie
+      fonts:
+        - asset: assets/fonts/Graphie-Regular.otf
+        - asset: assets/fonts/Graphie-Italic.otf
+          style: italic
+        - asset: assets/fonts/Graphie-SemiBold.otf
+          weight: 500
+        - asset: assets/fonts/Graphie-SemiBoldItalic.otf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Graphie-Bold.otf
+          weight: 700
+        - asset: assets/fonts/Graphie-BoldItalic.otf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Graphie-ExtraBold.otf
+          weight: 800
+        - asset: assets/fonts/Graphie-ExtraBoldItalic.otf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/Graphie-Book.otf
+          weight: 300
+        - asset: assets/fonts/Graphie-BookItalic.otf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Graphie-Thin.otf
+          weight: 200
+        - asset: assets/fonts/Graphie-ThinItalic.otf
+          weight: 200
+          style: italic

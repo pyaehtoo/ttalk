@@ -1,0 +1,23 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192.37 192.31">
+    <defs>
+        <linearGradient id="b" x1="3.82" y1="963.93" x2="196.18" y2="963.93" gradientTransform="translate(0 -863.93)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fdb927"/>
+            <stop offset="1" stop-color="#ffce00"/>
+        </linearGradient>
+        <linearGradient id="a" x1="34.92" y1="938.65" x2="91.41" y2="938.65" gradientTransform="translate(0 -863.93)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e04136"/>
+            <stop offset="1" stop-color="#ef5f23"/>
+        </linearGradient>
+        <linearGradient id="c" x1="118.5" y1="938.36" x2="174.88" y2="938.36" xlink:href="#a"/>
+        <linearGradient id="d" x1="63.96" y1="72.27" x2="140.2" y2="72.27" gradientTransform="matrix(1 0 0 -1 0 200.72)" xlink:href="#a"/>
+        <linearGradient id="e" x1="102.7" y1="52.41" x2="103.03" y2="77" gradientTransform="matrix(1 0 0 -1 0 200.72)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e8a240"/>
+            <stop offset="1" stop-color="#ef5f23"/>
+        </linearGradient>
+    </defs>
+    <path d="M99.94 3.84A96.22 96.22 0 0 0 8.3 129.08l.4 1.08A96.17 96.17 0 1 0 99.94 3.84ZM48.85 165a25.6 25.6 0 0 1-8.52 1.62 88.44 88.44 0 0 1-25.41-38.66 27.06 27.06 0 0 1 51.64 11.49A26.88 26.88 0 0 1 48.85 165Zm110.57 1.62a24.29 24.29 0 0 1-8.38-1.76 27.19 27.19 0 0 1 9.73-52.58 27.61 27.61 0 0 1 19.33 8 25.65 25.65 0 0 1 5 7 89.17 89.17 0 0 1-25.68 39.33Z" transform="translate(-3.82 -3.84)" style="fill:url(#b)"/>
+    <path d="M90.62 58.45C85.21 44.4 62.77 59 62.77 59S38.44 47.91 35.2 62.64s23.52 32.17 30.54 34.47c6.49-3.17 30.26-24.6 24.88-38.66Z" transform="translate(-3.82 -3.84)" style="fill:url(#a)"/>
+    <path d="M174.69 64c-2.57-14.74-27.44-4.87-27.44-4.87s-21.76-15.55-27.87-1.69 16.76 36.09 23.25 39.74c7.19-2.1 34.63-18.45 32.06-33.18Z" transform="translate(-3.82 -3.84)" style="fill:url(#c)"/>
+    <path d="M64 110.9h76.2c.16 0-32.42 79.01-76.2 0Z" transform="translate(-3.82 -3.84)" style="fill:url(#d)"/>
+    <path d="M83 131.78s17.8-9.73 39.83 0c.01 0-19.33 24.22-39.83 0Z" transform="translate(-3.82 -3.84)" style="fill:url(#e)"/>
+</svg>
